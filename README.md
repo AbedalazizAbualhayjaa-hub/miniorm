@@ -1,22 +1,35 @@
-# Training Deliverables
+# MiniORM
 
-This repository contains the technical exercises and deliverables completed during my training.
+MiniORM is a Python project developed as part of my training deliverables. The project focuses on working with databases using Python, SQL, SQLite, and SQLAlchemy.
 
-## Topics
+## Project Structure
 
-1. Python
-2. SQLite and CRUD Operations
-3. Relational Database Design
-4. SQL Queries
-5. Advanced SQL
-6. SQLAlchemy
+The deliverables are organized into three main parts:
+
+```text
+miniorm/
+├── PART-A/
+│   ├── Task-1/
+│   ├── Task-2/
+│   └── Task-3/
+│
+├── PART-B/
+│   ├── Task-1/
+│   ├── Task-2/
+│   └── Task-3/
+│
+└── PART-C/
+    ├── Task-1/
+    ├── Task-2/
+    └── Task-3/
+```
 
 ## Technologies
 
-- Python
-- SQLite
-- SQL
-- SQLAlchemy
-- Linux / WSL
-- Git
-- GitHub
+* Python
+* SQL
+* SQLite
+* SQLAlchemy
+* Linux / WSL
+* Git
+* GitHub
